@@ -14,6 +14,6 @@
 ### User functionalities: Scroll products on the shop, add products to cart, place an order.
 ### Admin functionalities: Add, Edit and Delete products.
 ### Authentication: using sessions and cookies.
-### Multiple form - enctypes: Upload image of the during addition of products on the shop (admin feature).
+### Multiple form - enctypes: Upload image of the product during addition of products on the shop (admin feature).
 ### CSRF protection: set up using csrf-sync which is best suited for stateful applications.
 ### Payment: Integrated with Stripe using the stripe package.
